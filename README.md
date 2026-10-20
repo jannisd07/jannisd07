@@ -1,6 +1,8 @@
-### Hi, I'm Jannis 👋
+### Hi, I'm Jannis
 
 Computer science student at Ulm University, building software that takes manual work off people's desks.
+
+**Your team still types orders or invoices into your software by hand?** Let's talk: [book a free 30-minute call with Yando](https://yando-ki.de/termin) (German) or [write in English](https://yando-ki.de/en/contact).
 
 **What I'm working on**
 
@@ -17,5 +19,7 @@ Computer science student at Ulm University, building software that takes manual 
 - [FreeAI](https://github.com/jannisd07/FreeAI): Discord bot for free AI image generation with Stable Diffusion (Realistic Vision V2.0) on my own GPU.
 - [THAROS](https://github.com/jannisd07/Tharos1212): a freelance marketplace inside Discord with verified experts, PayPal payments held until the client is satisfied, and ratings.
 - [PartnerShip](https://github.com/jannisd07/PartnerShip): Discord bot that grows servers by exchanging ads between partner servers.
+
+**Tech I use most:** TypeScript, Astro, Next.js, React Native / Expo, Python, Supabase, Cloudflare, Claude Code
 
 **More:** [jannisdietrich.com](https://jannisdietrich.com) · [LinkedIn](https://www.linkedin.com/in/jannis-alexander-dietrich-35247134b/) · Ulm, Germany
