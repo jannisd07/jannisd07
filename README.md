@@ -18,4 +18,4 @@ Computer science student at Ulm University, building software that takes manual 
 - [THAROS](https://github.com/jannisd07/Tharos1212): a freelance marketplace inside Discord with verified experts, PayPal payments held until the client is satisfied, and ratings.
 - [PartnerShip](https://github.com/jannisd07/PartnerShip): Discord bot that grows servers by exchanging ads between partner servers.
 
-**More:** [jannisdietrich.com](https://jannisdietrich.com) · Ulm, Germany
+**More:** [jannisdietrich.com](https://jannisdietrich.com) · [LinkedIn](https://www.linkedin.com/in/jannis-alexander-dietrich-35247134b/) · Ulm, Germany
