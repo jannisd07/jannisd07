@@ -22,4 +22,4 @@ Computer science student at Ulm University, building software that takes manual 
 
 **Tech I use most:** TypeScript, Astro, Next.js, React Native / Expo, Python, Supabase, Cloudflare, Claude Code
 
-**More:** [jannisdietrich.com](https://jannisdietrich.com) · [LinkedIn](https://www.linkedin.com/in/jannis-alexander-dietrich-35247134b/) · Ulm, Germany
+**More:** [jannisdietrich.com](https://jannisdietrich.com) · [LinkedIn](https://www.linkedin.com/in/jannisdietrich/) · Ulm, Germany
